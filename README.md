@@ -1,7 +1,6 @@
 # Superstore Sales Dashboard and Sales Forecasting with Power BI
 
 
-
 ## Introduction
 This project utilizes Power BI to create an interactive dashboard for analyzing Superstore sales data and generating sales forecasts.
 
@@ -22,7 +21,9 @@ This Power BI project provides a Superstore Sales Dashboard and Sales Forecastin
 ### Make Data-Driven Decisions
 - Leverage the insights from your analysis and forecasts to make informed decisions about product offerings, pricing strategies, marketing campaigns, and resource allocation.
 
-![Superstore Sales Dashboard](./SuperStore-Sales-Dashboard-and-sales-Forecasting/Screenshot%202024-06-02%20185454.png)
+![Superstore Sales Dashboard](./Screenshot%202024-06-02%20185518.png)
+![Superstore Sales Dashboard](./Screenshot%202024-06-02%20185454.png)
+
 
 ## Power BI for Interactive Visualization
 This project utilizes Power BI, a powerful business intelligence tool known for its:
@@ -35,7 +36,3 @@ This project utilizes Power BI, a powerful business intelligence tool known for 
 
 This combination of functionalities empowers users to gain a deeper understanding of sales trends and make data-driven decisions for business growth.
 
-## Results
-- **Track Key Metrics:** Monitor important sales figures like total sales, profit, average order value, and sales by product/category/region. You can see these metrics over time and identify trends.
-- **Gain Insights:** Drill down into the data to uncover hidden patterns and relationships. For example, you might see that a particular product category sells better in certain regions or during specific times of year.
-- **Make Data-Driven Decisions:** Use the insights from your analysis and forecasts to make informed decisions about product offerings, pricing strategies, marketing campaigns, and resource allocation.
